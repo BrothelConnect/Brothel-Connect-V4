@@ -4,3 +4,5 @@ This is the entire website source code for the current version of brothelconnect
 This repo will be kept up to date with the site
 
 The entire website is developed and hosted by Uncle Bill
+
+Leaks could not be bundled with source due to file upload size on github
