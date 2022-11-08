@@ -1,0 +1,30 @@
+BROTHEL CONNECT V4.0 UPDATE LOG
+----------------------------------------------------
+
+	BROTHEL CONNECT V4 BETA 1 LOG
+	-------------------------------------------
+	- RECODED THE ENIRE SITE FROM SCRATCH
+	- REDESGNED LOGO AND ENTIRE SITE FROM SCRATCH
+	- Added cloudflare protection
+
+	BROTHEL CONNECT V4 BETA 2 LOG
+	-------------------------------------------
+	- Moved webiste to be hosted of same machine as csgo server
+	- Site now hosted locally
+	
+
+	BROTHEL CONNECT V4 FULL RELEASE LOG (CURRENT VERSION)
+	-------------------------------------------
+	- Added HTTPS Support
+	- Redesigned and Recoded leak page
+	- ADDED A SHIT TON OF LEAKS
+	- Improved site security dramatically
+	- Improved site load times/server performance
+	- Fixed all issues with csgo server
+	- Improved csgo server performance
+	- Increased csgo server max player count from 32 to 64
+
+
+
+	------------------------STILL TO FINISH---------------------------------
+	- Finish developing brothel software
